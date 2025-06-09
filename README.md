@@ -1,6 +1,6 @@
 # Store Sales Forecasting
 
-This project is based on Kaggle competition Store Sales - Time Series Forecasting. The ideia is predicting sales for the thousands of product families sold at Favorita stores located in Ecuador. The training data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models.
+This project is based on Kaggle competition Store Sales - Time Series Forecasting. The ideia is predicting sales for the thousands of product families sold at Favorita stores located in Ecuador. The training data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information such as daily oil price, holiday and events, store metadata and cluster similar stores.
 
  ## File Descriptions and Data Field Information
 ### train.csv
